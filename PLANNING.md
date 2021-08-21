@@ -9,6 +9,8 @@ These are specific to generating a schedule, no matter what
     - EM2 shifts can be worked by EM2 or greater (except at EOY)
     - EM3 shifts can be worked by EM3 or greater (except at EOY)
     - EM4 shifts can only be worked by EM4s
+    - *Will need a roster
+- The morning shifts aren't staffed on wednesdays
 
 ## Trade-Specific
 - The resident cannot work the shift being traded out of 
